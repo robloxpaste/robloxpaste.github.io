@@ -9,7 +9,7 @@ tags:
 
 Are you looking for Roblox Anime Fighters scripts? If so, you are in the right place! In this article, we will be going over everything you need to know about script writing for an Anime Fighter. From what styles work best to how to format your script, we will help you get started!
 
-[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://digitalocean.com)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 Anime Fighters is a Roblox game that allows players to compete against each other in battles inspired by popular anime shows. The game features a variety of different characters, each with their own unique skills and abilities. Players can choose to fight as their favorite character in order to progress through the ranks and become the ultimate anime fighter!
 
