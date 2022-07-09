@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "mint", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roblox Paste"
+title                    : "Roblox Scripts"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "All the latest Roblox scripts."
 name                     : "Robert Newman"
 description              : "All the latest Roblox scripts."
 url                      : "https://robloxpaste.github.io"
