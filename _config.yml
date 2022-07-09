@@ -105,17 +105,17 @@ analytics:
 # Site Author
 author:
   name             : "Roblox Scripts"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://github.com/robloxpaste/robloxpaste.github.io/blob/main/roblox-logo.png?raw=true"
   bio              : "Get the latest Roblox scripts from our site!"
   location         : # "Somewhere"
-  email            :
+  email            : "contact@robloxpaste.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:contact@robloxpaste.github.io"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://robloxpaste.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
