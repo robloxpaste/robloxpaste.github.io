@@ -17,7 +17,6 @@ One of the great things about Anime Fighters is that it features a variety of sc
 
 There are a wide variety of scripts available for Anime Fighters, and new ones are being created all the time. If you're looking for a particular script, chances are there's already one out there that you can use. However, if you're feeling creative, you can always try your hand at creating your own script! Either way, Anime Fighters provides a great way for players to enjoy battling it out with their friends in an exciting and customizable game.
 
-
 ## Script Features
 
 One of the most popular features of Roblox is the ability to use scripts. Scripts allow you to add extra functionality to your game and can be written in any programming language. In this article, we'll take a look at some of the most popular script features that are available on Roblox.
@@ -28,6 +27,7 @@ Another popular script feature is the ability to create custom GUI elements. GUI
 
 There are many other script features that you can explore, but these are some of the most popular. Scripting is a powerful way to customize your Roblox experience and can be used to create just about anything you can imagine.
 
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How The Roblox Anime Fighters Script Works
 
