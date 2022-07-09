@@ -1,7 +1,7 @@
 ---
 title: "Edge Case: Many Tags"
 categories:
-  - Edge Case
+  - scripts
 tags:
   - 8BIT
   - alignment
