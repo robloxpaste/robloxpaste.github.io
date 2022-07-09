@@ -1,5 +1,5 @@
 ---
-title: "Scripts: Roblox Anime Fighters Scripts"
+title: "Anime Fighters Scripts"
 categories:
   - scripts
   
