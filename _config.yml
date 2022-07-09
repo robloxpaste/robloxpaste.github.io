@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Roblox Paste"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Robert Nweman"
+name                     : "Robert Newman"
 description              : "All the latest Roblox scripts."
 url                      : "https://robloxpaste.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
