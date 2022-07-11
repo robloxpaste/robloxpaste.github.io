@@ -108,7 +108,7 @@ author:
   avatar           : "https://github.com/robloxpaste/robloxpaste.github.io/blob/main/roblox-logo.png?raw=true"
   bio              : "Get the latest Roblox scripts from our site!"
   location         : # "Somewhere"
-  email            : "contact@robloxpaste.github.io"
+  email            : # "contact@robloxpaste.github.io"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
