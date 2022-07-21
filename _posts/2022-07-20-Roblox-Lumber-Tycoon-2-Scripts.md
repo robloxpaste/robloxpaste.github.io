@@ -4,7 +4,7 @@ title: "Roblox Lumber Tycoon 2 Scripts"
 
 Hello, my name is Drake and I am a Roblox Developer. In this article, I am going to share some Lumber Tycoon 2 Scripts with you that you can use in your own games.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 Script 1: this script enables players to chop trees. When a player chops a tree, they are rewarded with wood and tree saplings. The number of trees chopped per minute also affects the player's Woodcutting Rank. The higher the rank, the more stamina they have and the faster they can chop trees.
@@ -29,7 +29,7 @@ There are a number of great scripts for Roblox Lumber Tycoon 2 available on the 
 ## How Can You Find More Scripts?
 There are a few ways that you can find more scripts. One way is to look on the Roblox Developer Wiki. Another way is to search for "script" or "plugin" on Google. And finally, you can also ask other developers or people who have used the scripts before.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Are There Any Risks To Using Scripts In Roblox Lumber Tycoon 2?
 There are definitely some risks associated with using scripts in Roblox Lumber Tycoon 2. If you don't know what you're doing, scripts can easily cause problems for your game and even damage your computer. Scripts can also be used to cheat in the game, which is definitely not a fun experience. So make sure you understand how scripts work before you start using them in your game. And if you do end up using a script anyway, be sure to take precautions to avoid any problems.
@@ -37,4 +37,4 @@ There are definitely some risks associated with using scripts in Roblox Lumber T
 ## Conclusion
 Roblox Lumber Tycoon 2 scripts can be very useful for players who want to get an edge in the game. However, it is important to be aware of the potential risks involved in using them. Some scripts may be malicious and may result in your account being banned from the game. It is always best to research a script before using it, and to only use scripts from trusted sources. There are many great scripts available for Roblox Lumber Tycoon 2, and with a little research you can find the ones that will help you the most.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
