@@ -4,7 +4,7 @@ title: "Roblox Dragon Ball Rage Scripts"
 
 A few weeks ago, we released a new Roblox project called Dragon Ball Rage. In this project, players can fight their way through different levels and try to get to the end.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 But one thing that is always important in any game is a good Scripts. Scripts are responsible for all of the events that occur in the game, and they determine how players are able to interact with each other.
@@ -34,7 +34,7 @@ There are a few different ways to install scripts for Dragon Ball Rage. The easi
 
 Another way to install scripts is by using the Developer Toolbar. This toolbar is Located in the top right corner of the Roblox website and it allows you to access many different features related to scripting. You can also use this toolbar to upload and manage your scripts. Finally, you can also install scripts manually by copying them into the appropriate folder on your computer.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How Do You Use Scripts In Dragon Ball Rage?
 Dragon Ball Rage is a free to play game that features a lot of scripts. These scripts allow you to do things like attack other players, spawn inanimate objects, and more. To use these scripts, you first need to find them. They are usually located in one of two places- the debug menu or the console.
@@ -44,4 +44,4 @@ The debug menu is located in the lower right corner of the screen and it allows 
 ## Conclusion
 In conclusion, scripts can be a great way to add new features and gameplay to Dragon Ball Rage. They can be found online from a variety of sources, and many of them are free to download and use. Once you have downloaded a script, you will need to install it in the game. After that, you can use it to add new features or gameplay to your game. Thanks for reading and enjoy Dragon Ball Rage!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
