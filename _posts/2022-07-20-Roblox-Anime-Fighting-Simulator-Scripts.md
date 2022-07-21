@@ -4,7 +4,7 @@ title: "Roblox Anime Fighting Simulator Scripts"
 
 ## What is Roblox?
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 Roblox is an online game that allows users to create their own games, tools, and other items. It’s also a great way to socialize with friends, learn new skills, and have some fun.
 
@@ -20,6 +20,8 @@ Scripts are a great way to add more realism and complexity to your Anime Fightin
 
 Scripts also make creating your own levels much easier. You no longer have to spend hours tediously trying to figure out how to create the perfect level layout or scripting in order to make it playable. With scripts, you can easily create levels with specific objectives or challenges that will test your players skills.
 
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
+
 ## How Do You Get Started With Scripting In Anime Fighting Simulator?
 To get started with scripting in Anime Fighting Simulator, you first need to download the Roblox Studio. Once you have downloaded and installed the Roblox Studio, open it and click on the "Create a New Script" button. You will then be prompted to enter a name for your script and click on the "Next" button.
 
@@ -29,7 +31,7 @@ Once you have chosen your language, you will be asked to provide some informatio
 
 After providing all of this information, it is time to start writing your code! To do this, click on the "Create Code" button and start coding!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## What Are Some Popular Scripts For Anime Fighting Simulator?
 There are many popular scripts for Anime Fighting Simulator on Roblox. Some of the more well-known ones include "Naruto Shippuden", "Dragon Ball Z", and "One Piece". These scripts can be very fun to play, and can be a great way to spend some time online.
@@ -44,4 +46,4 @@ Another thing that you can do is to use scripts to help you make better choices 
 ## Conclusion
 Anime Fighting Simulator is a Roblox game that allows players to compete against each other in battles using a wide variety of anime-inspired moves and abilities. Scripting is a popular way to improve one's gameplay in Anime Fighting Simulator, as it allows for greater customization and control over one's character. There are a wide variety of popular scripts for Anime Fighting Simulator, many of which can be found for free online. Scripts can be used to improve gameplay in a number of ways, such as increasing damage output, improving movement, and more.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
