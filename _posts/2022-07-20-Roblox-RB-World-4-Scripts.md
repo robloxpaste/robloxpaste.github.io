@@ -4,7 +4,7 @@ title: "Roblox RB World 4 Scripts"
 
 Hello, my name is Jim and I am a Roblox content creator. Recently, I made a 4-script post about how to get Unlimited Robux in RB World 4. If you're looking to make some serious Robux fast, then you should check out my guide!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 In this guide, I will tell you everything that you need to know in order to get Unlimited Robux in RB World 4. From tips for getting started to advice about which commands work best, I will cover everything!
@@ -26,7 +26,7 @@ After you have chosen your language and theme, you are ready to start creating y
 ## Can I Get Banned For Using The RB World 4 Scripts?
 Yes, you can get banned for using the RB World 4 scripts. The reason why is because many of the scripts are designed to cheat in various ways. This includes gaining an unfair advantage over other players, helping yourself to more resources than you should, and even cheating in the game itself. So if you're using any of these scripts, be aware that you could be at risk of getting banned.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Are There Any Risks To Using The RB World 4 Scripts?
 Yes, there are definitely risks to using the RB World 4 scripts. When you use the scripts, you are giving Roblox permission to access your computer and take whatever actions they deem necessary in order to protect the site and its users. This could include disabling your account, removing content or even sending you to a spam website. It's important to be aware of these risks before you use the scripts and to take steps to protect yourself if something goes wrong.
@@ -37,4 +37,4 @@ There are several ways that you can protect yourself when using the RB World 4 s
 
 In conclusion, the RB World 4 scripts are a great way to get an edge in the game. However, there are some risks to using them, such as getting banned from Roblox. It is important to weigh the risks and rewards before deciding to use any scripts. We hope this blog post has been helpful in making your decision. Happy gaming!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
