@@ -4,7 +4,7 @@ title: "Roblox Collect All Pets Scripts"
 
 A Roblox user by the name of “senior_gamer” has released a script which will allow players to collect all the pets in the game. The script is available to download on the Roblox Developer Portal and it is estimated to take around 20 minutes to complete.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 This Collect All Pets Script is a huge advantage for players who are looking to level up quickly. By collecting all the pets, players can gain substantial amounts of experience and loot which can help them reach the level cap much quicker.
@@ -29,6 +29,8 @@ What Are The Benefits Of Using ## Roblox Collect All Pets Scripts?
 
 Using the ## Roblox Collect All Pets Scripts can be a great way to collect all of your pets in one place. Not only will you have a record of all of the animals you've collected, but you'll also be able to track their stats and achievements. This is a great way to keep track of your pets and see how they are doing over time.
 
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
+
 ## How Can You Make Your Own Roblox Collect All Pets Script?
 
 There are a few different ways that you can make your own Roblox Collect All Pets Script. The first way is to use a script editor like Roblox Studio. You can then create a script that will collect all of the pets in your game. This script will automatically track the location and health of the pets, and it will even teleport them to your inventory once they have been collected.
@@ -47,4 +49,4 @@ There are a lot of popular ## Roblox Collect All Pets Scripts on the platform. S
 
 In conclusion, ## Roblox Collect All Pets Scripts are a great way to collect all the pets in Roblox. They are easy to use and can save you a lot of time. You can also make your own ## Roblox Collect All Pets Scripts. If you are looking for a script to use, there are many popular ones available.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
