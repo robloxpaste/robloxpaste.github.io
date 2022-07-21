@@ -4,7 +4,7 @@ title: "Roblox Rebirth Champions X Scripts"
 
 We all know that Roblox is an amazing platform for gaming, making and sharing your own games. But did you know that you can also make scripts for the games that you play? Scripts are pieces of software written in a programming language to automate or facilitate tasks in a computer system.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 In this article, we are going to go over how to make Rebirth Champions X scripts! These scripts can give you an edge in the game and help you accomplish things easier. so make sure to read through the information and learn everything that we have to offer!
@@ -18,6 +18,8 @@ Another unique feature of Roblox is its ability to be used as a teaching tool. T
 
 ## What Is Rebirth Champions X?
 Rebirth Champions X is a new game that was just released on Roblox. The game is an online battle royale game where players must fight to the death in a variety of locations. Players can choose from a variety of characters and weapons to help them survive.
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Is Rebirth Champions X safe?
 
@@ -37,7 +39,7 @@ If you want to find scripts at a game store, your best option would be to look f
 
 Scripts are a feature in Roblox that allow you to create and customize your own games. You can use scripts to do things like add new features to your game, change the look and feel of your game, or even createscenes. Scripts are very powerful tools and can be used for a variety of purposes. If you're new to scripting, we recommend watching our tutorial on how to create a script.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Are There Any Risks Associated With Using Scripts In Roblox?
 There are definitely risks associated with using scripts in Roblox. If you don't know how to use them, they could do serious damage to your account and game. In some cases, scripts can even lock your account or cause other problems. It's important that you learn how to use scripts safely if you want to use them in your games.
@@ -49,4 +51,4 @@ Scripts can also be dangerous if they're used incorrectly. For example, if you'r
 ## Conclusion
 scripts can give you an edge in Rebirth Champions X by providing you with enhanced gameplay mechanics that can help you win. However, it is important to be aware of the potential risks associated with using scripts, as they can lead to banishment from the game. Use scripts at your own risk, and make sure to read the terms and conditions of use before downloading or using any scripts. Thanks for reading, and we hope this blog post has been helpful!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
