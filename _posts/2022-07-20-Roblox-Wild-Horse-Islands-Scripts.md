@@ -4,7 +4,7 @@ title: "Roblox Wild Horse Islands Scripts"
 
 If you're like most people, you've dreamed of exploring a world filled with exciting adventures. With Roblox Wild Horse Islands, you can finally live that dream!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 This new game lets you take on the role of a daring explorer who must brave treacherous seas and dangerous islands in search of new treasures. The game offers an immersive experience that is sure to keep you coming back for more.
@@ -14,6 +14,8 @@ But what if you run into some trouble? Wouldn't it be great to have a script tha
 ## How To Get Free Robux
 
 Getting free Robux is a popular way to get in-game currency. There are a few different ways to do this, and each method has its own set of pros and cons. Here are four methods that you can use to get free Robux: 
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 1. Play games with Roblox Rewards. This is the simplest method and it works by giving you Robux for playing games on Roblox. You can find out more about this here: https://www.roblox.com/games/27374208/Roblox-Rewards-How-It-Works
 
@@ -62,7 +64,8 @@ The Wild Horse Islands script is a great place to start if you are looking for a
 ## - Multiple locations to explore
 ## - Lots of different objects and items to find
 ## - A variety of terrain types to explore
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## - An expansive world with many hidden secrets
 
@@ -70,5 +73,3 @@ If you are interested in checking out the Wild Horse Islands script, be sure to 
 
 ## Conclusion
 The Wild Horse Islands script is a great way to get free VIP on Roblox. It is easy to use and has a lot of features. It is also a great way to make a shirt on Roblox.
-
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
