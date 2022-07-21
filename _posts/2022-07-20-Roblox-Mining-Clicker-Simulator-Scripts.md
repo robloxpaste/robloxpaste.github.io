@@ -3,8 +3,7 @@ title: "Roblox Mining Clicker Simulator Scripts"
 ---
 
 In this blog article, we are going to talk about Roblox Mining Clicker Simulator Scripts. This is a game where you can mine for ore and sell it at the market. There are also other things you can do in the game, such as create your own house or shop.
-
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 If you want to know how to make money in this game, then read on! We will go over different ways to make money in this game and how to use scripting to make it easier for you. Finally, we will give you some tips on how to improve your gameplay skills so that you can become a successful miner in this game.
@@ -17,6 +16,8 @@ There are a few ways that you can get more money in Roblox Mining Clicker Simula
 1. Sell your finds: If you find valuable minerals or rocks, it is important to sell them as quickly as possible. You can sell them on the market or to other players who are looking for similar items.
 
 2. Use your finds to buy other items: Sometimes, you will need specific items in order to progress in the game. For example, if you want to build a shelter, you will need wood and nails. You can buy these items using your found minerals and rocks.
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How To Get More Diamonds In Roblox Mining Clicker Simulator
 
@@ -35,7 +36,7 @@ Finally, be patient. It can take some time to level up in this game, but with a 
 
 There is a way to get rich quick in Roblox Mining Clicker Simulator and it doesn't involve mining! You can purchase items from the Shop that give you a temporary boost in your earnings. Some of these items are only available for a limited time, so it's important to act fast if you want to take advantage of them!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How To Beat The Boss In Roblox Mining Clicker Simulator
 In this blog, we are going to show you how to beat the boss in Roblox Mining Clicker Simulator. The boss is a very difficult enemy that you will have to face if you want to be successful in the game. However, with the right strategy and some help from our guide, you can easily defeat the boss and become a master miner.
@@ -50,4 +51,4 @@ Once your defenses are up and running, it is time to launch an offensive attack 
 
 I have shown the benefits of using scripts in Roblox Mining Clicker Simulator and how they can help you level up fast and get rich quick. Scripts are easy to use and can be a great way to get an edge on the competition. I hope the main points from this blog post have been beneficial and will help you get started with using scripts in Roblox Mining Clicker Simulator. See our website for a great selection of scripts that will help you get ahead in the game!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
