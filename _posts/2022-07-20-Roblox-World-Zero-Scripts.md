@@ -4,7 +4,7 @@ title: "Roblox World Zero Scripts"
 
 In this blog article, we will be discussing different Roblox World Zero Scripts that you can use to help you in your gameplay. We will also go over some of the tips and tricks that you should know in order to make the most out of your Scripts.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 ## What Is Roblox World Zero?
@@ -30,7 +30,7 @@ There are a number of great scripts for Roblox World Zero, but some of the best 
 - Battle Royale: This script is a great way to play as either the contestants or the killers. The contestants must try to survive until the end while the killers must try to kill them all. 
 - Parkour: This script is a great way to play as either the runner or the jumper. The runner must try to escape from the killer while the jumper must try to reach high platforms and escape before time runs out.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How Can You Find More Information About Scripting In Roblox World Zero?
 
@@ -40,4 +40,4 @@ There is a lot of information about scripting available on the internet, but you
 
 In conclusion, scripting in Roblox World Zero can be a great way to save time and automate tasks. There are a variety of scripts available for different purposes, so be sure to do your research to find the best ones for your needs. You can find more information about scripting in Roblox World Zero by checking out our forums and documentation. Thanks for reading!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
