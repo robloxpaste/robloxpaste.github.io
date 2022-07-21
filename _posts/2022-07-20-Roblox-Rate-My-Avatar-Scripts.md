@@ -4,7 +4,7 @@ title: "Roblox Rate My Avatar Scripts"
 
 Do you have a great avatar, but you don't know how to make it look better? You could spend hours on Roblox trying to tweak every aspect of your avatar, or you could use a script to do it for you.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 There are many Roblox rate my avatar scripts available online, so finding the right one for you is easy. With a script, you can easily change the look of your avatar without spending any time on it yourself.
@@ -27,7 +27,7 @@ Rate My Avatar Scripts are a great way to get feedback on your avatar. Simply in
 
 There are many benefits to using Rate My Avatar Scripts. For one, it can be a great way to improve your creativity and productivity. You can use the scripts to customize and improve your avatars quickly and easily. Additionally, the scripts provide you with a platform to share your work with other users. Finally, the scripts can help you build a following for your avatar creations. All in all, using Rate My Avatar Scripts is a valuable tool that can help you achieve your goals
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Some Drawbacks Of Using Rate My Avatar Scripts.
 There are some drawbacks to using Rate My Avatar Scripts. For one, it can be a bit unfair because you can't always control how your avatar looks. Additionally, the scripts can be quite time-consuming to use and sometimes they don't work as intended.
@@ -35,5 +35,3 @@ There are some drawbacks to using Rate My Avatar Scripts. For one, it can be a b
 ## Conclusion
 
 Overall, using Roblox Rate My Avatar Scripts can be beneficial for increasing your avatar's rating. However, there are some drawbacks to using them as well. Make sure to weigh the pros and cons before deciding to use a script. Thanks for reading!
-
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
