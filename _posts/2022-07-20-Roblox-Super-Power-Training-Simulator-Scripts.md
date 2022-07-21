@@ -4,7 +4,7 @@ title: "Roblox Super Power Training Simulator Scripts"
 
 Do you want to get the most out of your Roblox Super Power Training Simulator? If you've ever wanted to add extra muscle or increase your speed, then you need to be using the right training scripts.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 In this article, we are going to go over the top 5 Roblox Super Power Training Simulator scripts that will help you achieve your goals faster than you ever thought possible.
@@ -21,7 +21,7 @@ Once you've located a script that interests you, you need to install it. To do t
 
 After the script is installed,you will need to restart your game client for it to take effect. You can also disable scripting at any time by clicking on the "Disable scripting" button near the bottom left corner of the game window (or by pressing F9).
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## Types of Scripts Available for Roblox Super Power Training Simulator
 There are three main types of scripts available for use in Roblox Super Power Training Simulator: bots, trainers and mods. Bots are simple programs that automatically perform certain actions in your game based on predetermined parameters. Trainers are similar to bots, but they allow you to customize their behavior in order to achieve specific goals. Mods are sophisticated programs that allow you to customize almost everything about your game experience
@@ -29,5 +29,3 @@ There are three main types of scripts available for use in Roblox Super Power Tr
 ## Conclusion
 
 So there you have it! Our complete guide to using scripts in Roblox Super Power Training Simulator. We hope this post has been helpful in getting you started with using scripts to improve your gameplay. Be sure to check out our marketplace for the best selection of scripts to suit your needs. As always, if you have any questions or feedback, please don't hesitate to reach out to us!
-
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
