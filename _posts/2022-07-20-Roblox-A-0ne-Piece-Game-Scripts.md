@@ -4,7 +4,7 @@ title: "Roblox A 0ne Piece Game Scripts"
 
 Do you want to make your own Roblox game? Maybe you have an idea for a game that you would love to play, but you don't know how to script it yourself.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 Learning how to script a Roblox game is easy if you have the right resources. In this article, we will be discussing some of the best Roblox game scripts that are available online.We will also provide tips on how to create your own game scripts and get them approved by Roblox.
@@ -17,6 +17,8 @@ Roblox is a virtual world where users can create and play games online. It is a 
 
 A One Piece game is a type of video game that involves players controlling characters from the manga and anime series, One Piece. The games are typically turn-based and involve strategic gameplay in order to advance through the story. Some of the more popular One Piece games include One Piece: Unlimited World Red, One Piece: Pirates Carnival, and One Piece: Pirate Warriors 3.
 
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
+
 ## How Do You Get Scripts For A One Piece Game On Roblox?
 There is no one easy answer to this question as it depends on your specific needs and desires. However, if you are looking to create a One Piece game on Roblox, there are a few things that you will need to do in order to get started.
 
@@ -28,7 +30,7 @@ Next, you will need to find some scripts. It is possible to find scripts for fre
 
 There are a lot of popular scripts for a One Piece game on Roblox. Some of the most popular scripts include the Straw Hat Pirates, Luffy, and even Zoro! Whether you want to create a story based on One Piece or just play through some of the levels, there is sure to be a script that is perfect for you!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## How Do You Use Scripts In A One Piece Game On Roblox?
 In order to use scripts in a One Piece game on Roblox, you first need to create a "Scripts" folder inside your project's "Content" folder. Inside of this folder, you will find two files: "PlayerController.js" and "GameServer.js".
@@ -46,5 +48,4 @@ There are a few benefits to using scripts in a One Piece game on Roblox. For one
 
 ## Conclusion
 In conclusion, scripts can be extremely helpful when playing a One Piece game on Roblox. Not only do they make the game more fun, but they can also help you progress further. There are a variety of scripts available for download, so be sure to check out a few before settling on the one that's right for you. And remember, have fun!
-
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
