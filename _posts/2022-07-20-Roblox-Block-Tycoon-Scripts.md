@@ -4,7 +4,7 @@ title: "Roblox Block Tycoon Scripts"
 
 Are you a fan of Roblox Block Tycoon? Do you like to create your own cities? If so, you might want to check out some great Roblox Block Tycoon Scripts.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 There are a lot of great scripts available that will help you create the city of your dreams faster and more easily than ever before. With these scripts, you won't have to spend hours onaiming and creating properties. All you'll have to do is download the script, put it into your game, and start playing!
@@ -24,7 +24,7 @@ To use a Roblox Block Tycoon script, you first need to find and download it from
 There are many benefits to using Roblox Block Tycoon scripts. Some of the most common benefits include: 
 ## - Increased difficulty and complexity of your game gameplay 
 ## - More dynamic content in your game world 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## - Increased interaction and customization options for your players 
 - Ability to add new features or modify existing ones without affecting gameplay balance 
@@ -34,4 +34,4 @@ There are many benefits to using Roblox Block Tycoon scripts. Some of the most c
 
 Roblox Block Tycoon scripts can be a great way to improve your game and make it more fun and user-friendly. They can also help you save time and money by automating tasks. However, it is important to find the right scripts for your game and to install and use them correctly. If you have any problems, you can troubleshoot them using the tips and tricks in this blog post. You can also create your own custom scripts if you want to. If you want to learn more about scripting in Roblox games, there are some great resources listed in the FAQ section.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
