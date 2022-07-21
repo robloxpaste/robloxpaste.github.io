@@ -4,7 +4,7 @@ title: "Roblox Sword Factory X Scripts"
 
 Sword Factory is a new game that was just released today and it's generating a lot of buzz. It's a role-playing game where you play as a character who works at a sword factory.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 One of the features of this game is the ability to script custom events. This means that you can create your own scripts and make your characters do things that you want them to do.
@@ -13,6 +13,8 @@ In this article, we are going to go over some of the basics of scripting in Swor
 
 ## What Are Roblox Sword Factory X Scripts?
 Roblox Sword Factory X (RSFx) is a game created by Roblox Corporation that allows users to create and customize their own swords. RSFx also includes a sword factory where players can design, create, and share their swords with others.
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## What are the risks associated with using RSFx?
 
@@ -28,7 +30,7 @@ Creating a sword in Sword Factory X is simple but challenging at the same time. 
 
 Once you've finished creating your sword, it's time for testing! Click on "Test Your Weapon" from the main menu and hit play. You'll see how each element of your sword affects its performance when used in combat. It's important to test out each element of your weapon so that you can perfect it before taking it into battle against other players online!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## What Are Some Of The Best Roblox Sword Factory X Scripts?
 There are a lot of great Roblox Sword Factory X Scripts out there, but some of our favorites include the following:
@@ -49,4 +51,4 @@ There are many benefits to using Roblox Sword Factory X Scripts. First and forem
 
 Roblox Sword Factory X Scripts are a great way to improve your Roblox experience. They can help you get more out of the game, and provide you with some great benefits. In this blog post, we've covered some of the best Roblox Sword Factory X Scripts, and how you can use them to get more out of your experience. Be sure to check out our full list of Scripts to get the most out of your Roblox experience!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
