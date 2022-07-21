@@ -4,7 +4,7 @@ title: "Roblox Clicker Simulator Scripts"
 
 In this blog post we are going to show off a Roblox Clicker Simulator Script that we have made. This script will let you simulate the earning of Roblox Cash and the spending of it in the game.
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 
 This script is designed for people who want to learn more about how Roblox Cash works in the game and how they can best use it to their advantage. We hope that you find this script useful and that you can share it with others who might be interested in learning more about Roblox Cash!
@@ -13,6 +13,8 @@ This script is designed for people who want to learn more about how Roblox Cash 
 A clicker simulator is a software program that people use to learn how to click on things. It's like playing a video game, but you don't have to use your hands. You can use a mouse or touch screen. Some clicker simulators are online and you play them on your computer, while others are downloadable and you can play them on your phone or tablet.
 
 One of the most common uses for a clicker simulator is learning how to train animals. You can use it to teach your dog to sit, jump, fetch and more. You can also use it to help kids learn how to read, write and count.
+
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
 
 ## What Are Some Popular Clicker Games?
 There are many popular clicker games on Roblox. Here are some of the most popular ones:
@@ -48,7 +50,6 @@ There are many scripts forclicker games out there, and the options are endless. 
 ## - Roblox Auto Clicker Scripts
 ## - Roblox Money Making Scripts
 ## - Robux Farming Scripts
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
 
 ## - Clickers for Fun
 
@@ -56,4 +57,4 @@ There are many scripts forclicker games out there, and the options are endless. 
 
 There are many different scripts that you can use for Roblox Clicker Simulator. Each script has its own unique features and benefits. Try out a few different scripts to find the one that works best for you. With the right script, you can dominate the game and become the top clicker!
 
-[![script button](https://github.com/modapks/modapks.github.io/blob/main/button.png?raw=true)](https://modmenu.vip/get-latest-apk)
+[![script button](https://github.com/robloxpaste/robloxpaste.github.io/blob/main/script_button.png?raw=true)](https://rbxpaste.com/latest-script)
